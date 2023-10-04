@@ -1,12 +1,15 @@
 # AAA-Framework
 <h1>Description</h1>
+
 In this task, my objective will be to evaluate the access management measures employed by a company. My task will involve an examination of their existing procedures, the identification of any shortcomings, and the provision of suggestions for enhancing their security protocols.
 
 As I recalled my lessons, access controls encompass security mechanisms that oversee the management of access, authorization, and the traceability of information. Authentication controls serve the purpose of confirming an individual's identity, while authorization controls are responsible for granting users specific permissions and imposing constraints on their actions. When implemented effectively, access controls serve as a crucial factor in reducing the probability of encountering security threats.
 
 - <a> Required Documents from Botium Toys </a>
-  - [Accounting Log](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
+  - [Accounting Log](https://github.com/malikaii99/AAA-Framework/blob/2fba09b7db1f883c24cf827ae20c14f68da6a75b/Accounting%20Log.xlsx)
+    
 <h2>Scenario</h2>
+
 Review the scenario below.
 
 You’re the first cybersecurity professional hired by a growing business.
