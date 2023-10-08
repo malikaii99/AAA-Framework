@@ -5,7 +5,7 @@ In this task, my objective will be to evaluate the access management measures em
 
 As I recalled my lessons, access controls encompass security mechanisms that oversee the management of access, authorization, and the traceability of information. Authentication controls serve the purpose of confirming an individual's identity, while authorization controls are responsible for granting users specific permissions and imposing constraints on their actions. When implemented effectively, access controls serve as a crucial factor in reducing the probability of encountering security threats.
 
-- <a> Required Documents from Botium Toys </a>
+- <a> Required Documents </a>
   - [Accounting Log](https://github.com/malikaii99/AAA-Framework/blob/2fba09b7db1f883c24cf827ae20c14f68da6a75b/Accounting%20Log.xlsx)
 
     
